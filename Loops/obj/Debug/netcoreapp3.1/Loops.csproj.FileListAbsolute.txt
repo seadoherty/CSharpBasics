@@ -1,0 +1,13 @@
+/home/seamus/Desktop/C#/Loops/bin/Debug/netcoreapp3.1/Loops
+/home/seamus/Desktop/C#/Loops/bin/Debug/netcoreapp3.1/Loops.deps.json
+/home/seamus/Desktop/C#/Loops/bin/Debug/netcoreapp3.1/Loops.runtimeconfig.json
+/home/seamus/Desktop/C#/Loops/bin/Debug/netcoreapp3.1/Loops.runtimeconfig.dev.json
+/home/seamus/Desktop/C#/Loops/bin/Debug/netcoreapp3.1/Loops.dll
+/home/seamus/Desktop/C#/Loops/bin/Debug/netcoreapp3.1/Loops.pdb
+/home/seamus/Desktop/C#/Loops/obj/Debug/netcoreapp3.1/Loops.csprojAssemblyReference.cache
+/home/seamus/Desktop/C#/Loops/obj/Debug/netcoreapp3.1/Loops.AssemblyInfoInputs.cache
+/home/seamus/Desktop/C#/Loops/obj/Debug/netcoreapp3.1/Loops.AssemblyInfo.cs
+/home/seamus/Desktop/C#/Loops/obj/Debug/netcoreapp3.1/Loops.csproj.CoreCompileInputs.cache
+/home/seamus/Desktop/C#/Loops/obj/Debug/netcoreapp3.1/Loops.dll
+/home/seamus/Desktop/C#/Loops/obj/Debug/netcoreapp3.1/Loops.pdb
+/home/seamus/Desktop/C#/Loops/obj/Debug/netcoreapp3.1/Loops.genruntimeconfig.cache

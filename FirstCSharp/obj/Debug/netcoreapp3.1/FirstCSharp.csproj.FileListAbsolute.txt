@@ -1,0 +1,13 @@
+/home/seamus/Desktop/C#/FirstCSharp/bin/Debug/netcoreapp3.1/FirstCSharp
+/home/seamus/Desktop/C#/FirstCSharp/bin/Debug/netcoreapp3.1/FirstCSharp.deps.json
+/home/seamus/Desktop/C#/FirstCSharp/bin/Debug/netcoreapp3.1/FirstCSharp.runtimeconfig.json
+/home/seamus/Desktop/C#/FirstCSharp/bin/Debug/netcoreapp3.1/FirstCSharp.runtimeconfig.dev.json
+/home/seamus/Desktop/C#/FirstCSharp/bin/Debug/netcoreapp3.1/FirstCSharp.dll
+/home/seamus/Desktop/C#/FirstCSharp/bin/Debug/netcoreapp3.1/FirstCSharp.pdb
+/home/seamus/Desktop/C#/FirstCSharp/obj/Debug/netcoreapp3.1/FirstCSharp.csprojAssemblyReference.cache
+/home/seamus/Desktop/C#/FirstCSharp/obj/Debug/netcoreapp3.1/FirstCSharp.AssemblyInfoInputs.cache
+/home/seamus/Desktop/C#/FirstCSharp/obj/Debug/netcoreapp3.1/FirstCSharp.AssemblyInfo.cs
+/home/seamus/Desktop/C#/FirstCSharp/obj/Debug/netcoreapp3.1/FirstCSharp.csproj.CoreCompileInputs.cache
+/home/seamus/Desktop/C#/FirstCSharp/obj/Debug/netcoreapp3.1/FirstCSharp.dll
+/home/seamus/Desktop/C#/FirstCSharp/obj/Debug/netcoreapp3.1/FirstCSharp.pdb
+/home/seamus/Desktop/C#/FirstCSharp/obj/Debug/netcoreapp3.1/FirstCSharp.genruntimeconfig.cache
